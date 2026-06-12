@@ -1,2 +1,2 @@
-# CYPRESS_RECORD_KEY
-Testes automação
+TESTES AUTOMAÇÃO
+Elaboração dos testes automatizados
